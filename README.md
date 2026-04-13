@@ -1,4 +1,4 @@
-# 🚴 Cyclistic Bike Share Analysis (DuckDB + Power BI)
+# Cyclistic Bike Share Analysis (DuckDB + Power BI)
 
 High-performance analysis of Divvy bike-share data (~3.7M records) using DuckDB SQL for large-scale querying and Power BI for interactive visualization.
 
@@ -23,7 +23,7 @@ Unlike traditional Pandas workflows, DuckDB is used for efficient SQL-based proc
 
 ---
 
-## 🔧 Data Processing
+##  Data Processing
 - Merged 12 months of trip data (~5.5M records)
 - Cleaned and filtered dataset (~3.7M valid records)
 - Created features:
@@ -33,7 +33,7 @@ Unlike traditional Pandas workflows, DuckDB is used for efficient SQL-based proc
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Members contribute ~64% of total rides; casual users ~36%
 - Casual users have longer ride durations (~22 min vs ~12 min)
@@ -47,7 +47,7 @@ Unlike traditional Pandas workflows, DuckDB is used for efficient SQL-based proc
 
 ---
 
-## 📸 Dashboard
+##  Dashboard
 
 ### Overview
 ![Overview](dashboard/overview.png)
@@ -63,7 +63,7 @@ Unlike traditional Pandas workflows, DuckDB is used for efficient SQL-based proc
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 - Convert casual users into members through targeted offers
 - Optimize bike availability during peak hours (5 PM)
 - Increase capacity at high-demand stations
@@ -85,5 +85,5 @@ Unlike traditional Pandas workflows, DuckDB is used for efficient SQL-based proc
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Yeshang Upadhyay

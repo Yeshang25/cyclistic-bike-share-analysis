@@ -72,7 +72,7 @@ Unlike traditional Pandas workflows, DuckDB is used for efficient SQL-based proc
 ---
 
 ## 📁 Project Structure
-
+```
 cyclistic-bike-share-analysis/
 ├── dashboard/
 │ ├── overview.png
@@ -81,9 +81,7 @@ cyclistic-bike-share-analysis/
 │ └── trends.png
 ├── cyclistic_analysis.ipynb
 └── README.md
-
-
----
+```
 
 ##  Author
 Yeshang Upadhyay

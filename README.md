@@ -47,7 +47,7 @@ Unlike traditional Pandas workflows, DuckDB is used for efficient SQL-based proc
 
 ---
 
-## 📸 Dashboard
+##  Dashboard
 
 ### Overview
 ![Overview](dashboard/screenshots/overview.png)

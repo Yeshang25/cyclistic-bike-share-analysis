@@ -47,19 +47,19 @@ Unlike traditional Pandas workflows, DuckDB is used for efficient SQL-based proc
 
 ---
 
-##  Dashboard
+## 📸 Dashboard
 
 ### Overview
-![Overview](dashboard/overview.png)
+![Overview](dashboard/screenshots/overview.png)
 
 ### Ride Length Comparison
-![Ride Length](dashboard/ride_length.png)
+![Ride Length](dashboard/screenshots/ride_length.png)
 
 ### Popular Stations
-![Stations](dashboard/stations.png)
+![Stations](dashboard/screenshots/stations.png)
 
 ### Trends Analysis
-![Trends](dashboard/trends.png)
+![Trends](dashboard/screenshots/trends.png)
 
 ---
 
